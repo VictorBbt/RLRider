@@ -15,6 +15,7 @@ In a future work, we first hope to compare our algorithms with those of Stable B
 How to install:
 
 The build files are available for download in the following drive:
+https://drive.google.com/drive/folders/1dhv1YaP4PuzNex9NTjvizuL6usFsuz0w?usp=sharing
 
 - **Windows (10 or higher)**: download the folder ‘*Windows*’ on your computer. In this folder you will find three folder, one for each level of the game. In each of these folders, you will find several files including an executable. Click on the ‘*.exe*’ file to open it and click ‘continue’ if a warning pops up. You can then play the game with left-clicking on your mouse. Then, in the same folder as this executable, download the files ‘*Reinforce.py*’ and ‘*DQN.py*’ and follow the instructions to run the code.
 
