@@ -14,16 +14,19 @@ In a future work, we first hope to compare our algorithms with those of Stable B
 
 How to install:
 
-- **Windows (10 or higher)**: download the file ‘*WindowsBuild*’ on your computer. In this file, click on the ‘*.exe*’ file to open it and click ‘continue’ if a warning pops up. You can then play the game with left-clicking on your mouse. Then, in the same directory as ‘*WindowsBuild*’, download the files ‘*Reinforce.ipynb*’ and ‘*DQN.ipynb*’ and follow the instructions to run the code.
+The build files are available for download in the following drive:
 
-- **Mac (10.5 or higher)**: download the file ‘MacBuild.zip’ on your computer. Open it to uncompress it.? Once you have a file ‘*MacBuild*’, open it and right click on the ‘*.app*’ file and click Open. You can then play the game with left-clicking on your mouse. Then, in the same directory as ‘*WindowsBuild*’, download the files ‘*Reinforce.ipynb*’ and ‘*DQN.ipynb*’ and follow the instructions to run the code.
+- **Windows (10 or higher)**: download the folder ‘*Windows*’ on your computer. In this folder you will find three folder, one for each level of the game. In each of these folders, you will find several files including an executable. Click on the ‘*.exe*’ file to open it and click ‘continue’ if a warning pops up. You can then play the game with left-clicking on your mouse. Then, in the same folder as this executable, download the files ‘*Reinforce.py*’ and ‘*DQN.py*’ and follow the instructions to run the code.
 
-- **Linux:** download the file ‘LinuxBuild’ on your computer. Then, go to this file in your terminal (‘*> cd YOURPATH/LinuxBuild*’). Run the following instruction ‘*> chmod .x FILE.x86\_64*’, and then ‘*> ./FILE.x86\_64*’. You can then play the game with left-clicking on your mouse. Then, in the same directory as ‘*WindowsBuild*’, download the files ‘*Reinforce.ipynb*’ and ‘*DQN.ipynb*’ and follow the instructions to run the code.
+- **Mac (10.5 or higher)**: download the folder ‘*Mac*’ on your computer. In this folder you will find three compressed file, one for each level of the game. You can decompress them. In each of these folders, you will find several files including an executable. Click on the ‘*.app*’ file to open it and click ‘continue’ if a warning pops up. You can then play the game with left-clicking on your mouse. Then, in the same folder as this executable, download the files ‘*Reinforce.py*’ and ‘*DQN.py*’ and follow the instructions to run the code.
 
-Now you should be good tu run the project by following the instructions of the ‘*.ipynb*’ files. Enjoy!
+- **Linux:** download the folder ‘*Linux*’ on your computer. In this folder you will find three folder, one for each level of the game. In each of these folders, you will find several files including an executable. Click on the ‘*.x86_64*’ file to open it and click ‘continue’ if a warning pops up. You can then play the game with left-clicking on your mouse. Then, in the same folder as this executable, download the files ‘*Reinforce.py*’ and ‘*DQN.py*’ and follow the instructions to run the code.
+
+Now you should be good tu run the project by following the instructions of the ‘*.py*’ files. Enjoy!
 
 Credits:
 
-- Clément GARANCINI: githublink
-- Marc-Antoine Oudotte: githublink
+Clément Garancini
+Victor Barberteguy
+Marc-Antoine Oudotte
 
