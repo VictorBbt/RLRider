@@ -1,6 +1,6 @@
-﻿**RIDER LEARNING:** 
+﻿# RIDER LEARNING
 
-Reinforcement learning algorithms (DQN, Reinforce) applied to Rider game
+**Reinforcement learning algorithms (DQN, Reinforce) applied to Rider game**
 
 In this project, we have created a Unity game with the same mechanics at the Ketchapp’s game Rider. We then wrapped up the Unity environment in a gym environment to implement our own RL algorithms, mainly Deep Q-Learning (using PyTorch) and REINFORCE algorithm (gradient descent) to compare performances.
 
@@ -12,7 +12,7 @@ In a future work, we first hope to compare our algorithms with those of Stable B
 - Implement a network with memory by adding a recurrent layer (R2D2 algorithm)
 
 
-How to install:
+## How to install:
 
 The build files are available for download in the following drive:
 https://drive.google.com/drive/folders/1dhv1YaP4PuzNex9NTjvizuL6usFsuz0w?usp=sharing
@@ -25,9 +25,12 @@ https://drive.google.com/drive/folders/1dhv1YaP4PuzNex9NTjvizuL6usFsuz0w?usp=sha
 
 Now you should be good tu run the project by following the instructions of the ‘*.py*’ files. Enjoy!
 
+## To go further
+
+Were you to delve further into Deep Reinforcement Learning Algorithms, you cand find notebooks with implementations of **value-based algorithms (DQN, DDQN, DQN PER,...)** [here](https://github.com/VictorBbt/DQN-Pytorch/tree/main), and another with **policy-gradient algorithms (REINFORCE with or without baseline, continuous or discrete, actor critic)** [here](https://github.com/VictorBbt/Policy-Gradient-Methods/tree/main).
+
 Credits:
 
 Clément Garancini
 Victor Barberteguy
 Marc-Antoine Oudotte
-
