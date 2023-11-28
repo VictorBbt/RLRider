@@ -27,7 +27,7 @@ Now you should be good tu run the project by following the instructions of the â
 
 ## To go further
 
-Were you to delve further into Deep Reinforcement Learning Algorithms, you cand find notebooks with implementations of **value-based algorithms (DQN, DDQN, DQN PER,...)** [here](https://github.com/VictorBbt/DQN-Pytorch/tree/main), and another with **policy-gradient algorithms (REINFORCE with or without baseline, continuous or discrete, actor critic)** [here](https://github.com/VictorBbt/Policy-Gradient-Methods/tree/main).
+Were you to delve further into Deep Reinforcement Learning Algorithms, you cand find notebooks with implementations of **value-based algorithms (DQN, DDQN, DQN PER,...)** [here](https://github.com/VictorBbt/DQN-Pytorch/tree/main), with **policy-gradient algorithms (REINFORCE with or without baseline, continuous or discrete, actor critic)** [here](https://github.com/VictorBbt/Policy-Gradient-Methods/tree/main), and **Monte Carlo Tree Search** [here](https://github.com/VictorBbt/MCTS-PyTorch/tree/main).
 
 Credits:
 
